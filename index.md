@@ -3,10 +3,6 @@
 This is a small sample book to give you a feel for how book content is
 structured.
 
-:::{note}
-Here is a note!
-:::
-
 And here is a code block:
 
 ```
@@ -24,3 +20,19 @@ You can also add figures to your book.
 
 GIS Programming with Python Book Cover.
 :::
+
+This is a test of the typst template.
+
+## Demos
+
+This is a demonstration of the typst template.
+
+### Example 1
+
+This is an example of a typst template.
+
+### Example 2
+
+This is an example of a typst template.
+
+![](https://assets.gishub.org/images/gispro-book-cover.png)
